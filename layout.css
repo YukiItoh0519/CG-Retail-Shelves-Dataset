@@ -1,0 +1,234 @@
+@charset "UTF-8";
+
+/* HTML */
+html {
+    scroll-behavior: smooth;
+}
+
+/* ボディー */
+body {
+    font-size: 18px;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 40px;
+    background: #393939;
+    box-sizing: border-box;
+    transition: padding .3s;
+    color: white;
+}
+
+#header.scroll {
+    padding: 10px 40px;
+}
+
+header .inner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.logo {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    font-weight: bold;
+}
+
+/* header-navi */
+header .navi {
+    margin: 0 0 0 auto;
+    padding: 0;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    list-style: none;
+}
+
+header .navi li {
+    margin: 5px 0 5px 40px;
+}
+
+header .navi li:first-child {
+    margin-left: 0;
+}
+
+header .navi li a {
+    display: block;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+header .navi li a:hover {
+    text-decoration: underline;
+}
+
+/* layout */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    height: 3000px;
+}
+
+.main {
+    background: rgb(255, 255, 255);
+    padding: 10px 0 40px 0;
+}
+
+.main h1 {
+    text-align: center;
+    transform: scale(0.7, 1);
+    font-size: 60pt;
+    font-family: "Arial Black";
+    color: rgb(113, 0, 128);
+}
+
+.main a {
+    text-align: center;
+}
+
+.main .title {
+    text-align: center;
+    color: white;
+    background-color: black;
+    background-image: url("image/renderedimage.png");
+    padding: 40px 0px;
+}
+
+.main .title h1 {
+    font-size: 60pt;
+    color: white;
+}
+
+.main h2 {
+    transform: scale(0.6, 1);
+    transform-origin: top left;
+    color: purple;
+    font-size: 40pt;
+    font-family: "Arial Black";
+    font-weight: bold;
+    margin: 10pt 10%;
+}
+
+.main h3 {
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.main h4 {
+    text-align: center;
+    transform: scale(0.8, 1);
+    font-size: 15pt;
+    font-weight: bold;
+    font-family: "Arial Black";
+    color: white;
+}
+
+.flex_container_left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_container_left .img_container_left {
+    flex: 1;
+
+}
+
+.img_container_left {
+    margin-right: 10%;
+}
+
+.text_container_left {
+    margin-left: 10%;
+    width: 100%;
+}
+
+
+.img_container_left img {
+    width: 100%;
+}
+
+.flex_container_right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_container_right .text_container_right {
+    flex: 1;
+
+}
+
+.img_container_right {
+    margin-left: 10%;
+}
+
+.text_container_right {
+    margin-right: 10%;
+    width: 100%;
+}
+
+
+.img_container_right img {
+    width: 100%;
+}
+
+.main .title .download a {
+    margin: 0 auto;
+    width: 10%;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: purple;
+    padding: 10px 10px;
+    margin: 0 3px;
+    border: solid 1px white;
+    border-radius: 30px;
+    transition: all .5s;
+}
+
+.main .title .download a:hover {
+    background: white;
+    color: purple;
+}
+
+#license_box {
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+    /* テキストボックスの幅 */
+    height: 400px;
+    /* テキストボックスの高さ */
+    border: 1px solid #ccc;
+    /* ボーダースタイル */
+    padding: 10px;
+    /* スクロールバーを表示 */
+    background-color: #f9f9f9;
+    /* 背景色 */
+    font-family: Arial, sans-serif;
+    /* フォントスタイル */
+    font-size: 18px;
+    /* フォントサイズ */
+    color: #333;
+    /* テキストカラー */
+
+}
+
+.main #TEAM ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

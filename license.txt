@@ -1,0 +1,45 @@
+CG Retail Shelves(CGRS) Dataset Terms of Use
+These CG Retail Shelves(CGRS) Dataset Terms of Use (“Terms”) shall govern any use of the
+CG Retail Shelves(CGRS) Dataset (“Dataset”) by you as individual or a legal entity (“You”).
+By using the Dataset, You agree to be bound by these Terms. If You do not accept and/or
+comply with these Terms, You are not entitled to use the Dataset.
+1. The Dataset is available for non-commercial, academic research for data analysis
+(“Purposes”). Licensors hereby grant You a non-exclusive, non-transferable license to use the
+Dataset solely for such purposes.
+2. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit any portion of the
+Dataset and any portion of derived data (including machine-learning models trained using
+the Dataset) for commercial purposes.
+3. You agree not to further copy, publish or distribute any portion of the Dataset.
+Notwithstanding the foregoing, You may share the Dataset to the extent necessary (i)for
+internal use within the same organization, or (ii) for collaboration with external parties to
+carry out the Purposes, provided that You are responsible for any breach of this Terms of Use
+by such recipient of the Dataset.
+4. Licensors do not grant title or ownership in the Dataset. All rights in the Dataset not
+expressly granted herein are reserved by Licensors and their licensors.
+5. Some of the images included in the Dataset may depict intellectual property of third parties
+including any copyright, trademark, trade dress, right of publicity, or any other proprietary
+right throughout the world that may apply (“Depicted Intellectual Property”). Licensors do
+not own or license any Depicted Intellectual Property and do not in any way make any
+representations or warranties about Depicted Intellectual Property associated with the
+Dataset. You are solely responsible for determining the need for and, if appropriate, obtaining
+any needed clearance, consent, or release to use any Depicted Intellectual Property.
+6. THE DATASET IS PROVIDED BY LICENSORS "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL LICENSORS BE LIABLE FOR
+
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+USE OF THE DATASET, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+7. Licensors reserve the right to terminate your access to the Dataset at any time at their sole
+discretion.
+
+8. These Terms shall be governed by and construed in accordance with the laws of Japan.
+Last update: 2023/12/25
+Aoki Media Sensing Lab., Keio University/Panasonic Connect, Co., Ltd. (“Licensors”)
