@@ -119,7 +119,7 @@ body {
     font-size: 40pt;
     font-family: "Arial Black";
     font-weight: bold;
-    margin: 10pt 10%;
+    margin: 10pt 5%;
 }
 
 .main h3 {
@@ -231,4 +231,35 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* 画面の高さいっぱいに表示 */
+}
+
+.text {
+    width: 50%;
+    /* 左側のテキストエリア */
+    padding: 0 5%;
+    /* 左右の余白 */
+}
+
+.image {
+    width: 50%;
+    /* 右側の画像エリア */
+    padding: 0 5%;
+    /* 左右の余白 */
+}
+
+.image img {
+    width: 100%;
+    /* 画像を親要素にフィットさせる */
+    height: auto;
+    /* アスペクト比を保持 */
+    display: block;
+    /* 余分なスペースを除去 */
 }
