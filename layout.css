@@ -227,6 +227,28 @@ body {
 
 }
 
+#news_box {
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+    /* テキストボックスの幅 */
+    height: 100px;
+    /* テキストボックスの高さ */
+    border: 1px solid #ccc;
+    /* ボーダースタイル */
+    padding: 10px;
+    /* スクロールバーを表示 */
+    background-color: #f9f9f9;
+    /* 背景色 */
+    font-family: Arial, sans-serif;
+    /* フォントスタイル */
+    font-size: 18px;
+    /* フォントサイズ */
+    color: #333;
+    /* テキストカラー */
+
+}
+
 .main #TEAM ul {
     display: flex;
     justify-content: center;
